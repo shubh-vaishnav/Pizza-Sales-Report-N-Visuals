@@ -32,6 +32,11 @@ The report and dashboard include various charts to visualize different aspects o
 6. **Top 5 Best Sellers:** Three bar charts revealing the top 5 best-selling pizzas based on revenue, total quantity, and total orders, respectively.
 7. **Bottom 5 Best Sellers:** Similar to the top sellers, these charts showcase the bottom 5 performers based on revenue, total quantity, and total orders.
 
+**Screenshots:**
+![picture1](https://github.com/shubh-vaishnav/pizza-sales-report-n-visuals/assets/130170546/4ad23d40-e0cd-4f47-a44d-7c37114cc0ac)
+![picture2](https://github.com/shubh-vaishnav/pizza-sales-report-n-visuals/assets/130170546/6b6c5efb-86f3-4a42-abe1-51fa172dee16)
+
+
 **Value Delivered:**
 The report and dashboard provide actionable insights into the pizza sales data, allowing the business to make informed decisions. By analyzing the KPIs and visualizing trends, the company can identify successful products, understand customer preferences, and make strategic choices to enhance overall business performance. The interactive nature of the Power BI dashboard also allows users to drill down into specific data points for deeper analysis, making it a powerful tool for decision-making.
 
