@@ -38,6 +38,6 @@ The report and dashboard include various charts to visualize different aspects o
 
 
 **Value Delivered:**
-The report and dashboard provide actionable insights into the pizza sales data, allowing the business to make informed decisions. By analyzing the KPIs and visualizing trends, the company can identify successful products, understand customer preferences, and make strategic choices to enhance overall business performance. The interactive nature of the Power BI dashboard also allows users to drill down into specific data points for deeper analysis, making it a powerful tool for decision-making.
+The report and dashboard provide actionable insights into the pizza sales data, allowing the business to make informed decisions. By analyzing the KPIs and visualizing trends, the company can identify successful products, understand customer preferences, and make strategic choices to enhance overall business performance. The interactive nature of the Power BI dashboard also allows users to drill down into specific data points for deeper analysis, making it a powerful tool for decision-making..
 
 In conclusion, the pizza sales report and dashboard represent a comprehensive approach to analyzing and visualizing key metrics and trends in pizza sales data, enabling the business to gain valuable insights for growth and optimization.
